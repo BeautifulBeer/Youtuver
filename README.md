@@ -1,4 +1,5 @@
 # Welcome to Youtuver Github
+Naver 급상승 키워드를 연령대별로 제공하고 해당 키워드에 대한 관련 동영상 정보를 제공하는 서비스입니다.
 ## 스펙
 구현된 어플리케이션의 주요 기능
 1. Slack을 통한 User Interface
