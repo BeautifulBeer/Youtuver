@@ -21,10 +21,10 @@ app = Flask(__name__)
 
 generations = ['전체 연령대', '10대', '20대', '30대', '40대', '50대']
 
-slack_token = 'xoxb-504131970294-508555503175-x5Bktl8WiLzgv6zEA1poXrAW'
-slack_client_id = '504131970294.508554740327'
-slack_client_secret = '3705c43a70f9a52a0fe70e34f3bef9b6'
-slack_verification = '3WKgs4HaxxPmADHSDeLUFfXv'
+slack_token = '__your_token__'
+slack_client_id = '__your_client_id__'
+slack_client_secret = '__your_client_secret__'
+slack_verification = '__your_verification__'
 sc = SlackClient(slack_token)
 global_words = []
 client_msg_id_history = []
